@@ -1,0 +1,5 @@
+{
+  "name": "AI Coloring Book Creator",
+  "description": "Generate a personalized, printable PDF coloring book for children. Users can specify a theme and a child's name to create a unique book with a custom cover and five coloring pages, all powered by AI image generation. The app also includes a friendly chatbot for any questions.",
+  "requestFramePermissions": []
+}
